@@ -6,15 +6,16 @@ import {BiBook} from 'react-icons/bi'
 import {RiServiceLine} from 'react-icons/ri'
 import {BiMessageSquareDetail} from 'react-icons/bi'
 import {useState} from 'react'
+import  {Link} from 'react-scroll'
 function Nav() {
   const [activeNav, setActiveNav] = useState('#')
   return (
     <nav>
-      <a href="#" onClick={() => setActiveNav('#')} className={activeNav=== '#' ? 'active' : ''}><AiOutlineHome /></a>
-      <a href="#about" onClick={() => setActiveNav('#about')} className={activeNav=== '#about' ? 'active' : ''}><AiOutlineUser /></a>
-      <a href="#experience" onClick={() => setActiveNav('#experience')} className={activeNav=== '#experience' ? 'active' : ''}><BiBook /></a>
-      <a href="#services" onClick={() => setActiveNav('#services')} className={activeNav=== '#services' ? 'active' : ''}><RiServiceLine /></a>
-      <a href="#contact" onClick={() => setActiveNav('#contact')} className={activeNav=== '#contact' ? 'active' : ''}><BiMessageSquareDetail /></a>
+      <Link to="header" spy={true} smooth={true}  duration={100} onClick={() => setActiveNav('#header')}><AiOutlineHome /></Link>
+      <Link to="about" spy={true} smooth={true} duration={100} onClick={() => setActiveNav('#about')}><AiOutlineUser /></Link>
+      <Link to="experience" spy={true} smooth={true} duration={100}  onClick={() => setActiveNav('#experience')}><BiBook /></Link>
+      <Link to="services" spy={true} smooth={true}  duration={100} onClick={() => setActiveNav('#services')}><RiServiceLine /></Link>
+      <Link to="contact" spy={true} smooth={true}  duration={100} onClick={() => setActiveNav('#contact')}><BiMessageSquareDetail /></Link>
     </nav>
   )
 }
