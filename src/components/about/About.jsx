@@ -40,7 +40,7 @@ function About() {
           </div>
 
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius ipsum voluptatibus, iste quibusdam, quaerat commodi natus ullam vel porro numquam illo, fugiat libero. Voluptates iusto placeat quasi accusantium sint tempore!</p>
+          <p>Hi, my name is Akhil Rana . I am a full stack developer with good knowledge of front-end and back-end techniques, and have more than 1 year of experience in web development. I have excellent design & coding skills, as well as an ability. Work with development teams and product managers to ideate software solutions. Design client-side and server-side architecture. Build the front-end of applications through appealing visual design. Develop and manage well-functioning databases and applications.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
