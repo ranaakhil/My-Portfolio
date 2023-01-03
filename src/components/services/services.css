@@ -37,17 +37,18 @@
 
 .service_list li{
     display: flex;
-    gap: 1rem;
     margin-bottom: 0.8rem;
 }
 
 .service_list-icon{
     color: var(--color-primary);
     margin-top: 2px;
+    width: 10%;
 }
 
 .service_list p {
     font-size: 0.9rem;
+    width: 90%;
 }
 
 /* =================== MEDIA QUERIES (MEDIUM DEVICES) ================== */
