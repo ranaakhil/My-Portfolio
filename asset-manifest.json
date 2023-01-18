@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ranaakhil/Akhil-Portfolio.git/static/css/main.ade06f3a.css",
+    "main.js": "/ranaakhil/Akhil-Portfolio.git/static/js/main.8aed2d42.js",
+    "static/media/K.png": "/ranaakhil/Akhil-Portfolio.git/static/media/K.de9759a1415752089430.png",
+    "static/media/CV.pdf": "/ranaakhil/Akhil-Portfolio.git/static/media/CV.ba17b11abd7dc3c2e20b.pdf",
+    "static/media/mee.png": "/ranaakhil/Akhil-Portfolio.git/static/media/mee.36e04bcad8cf45af57f8.png",
+    "static/media/portfolio5.png": "/ranaakhil/Akhil-Portfolio.git/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/ranaakhil/Akhil-Portfolio.git/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/ranaakhil/Akhil-Portfolio.git/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/ranaakhil/Akhil-Portfolio.git/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/ranaakhil/Akhil-Portfolio.git/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/ranaakhil/Akhil-Portfolio.git/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/ranaakhil/Akhil-Portfolio.git/index.html",
+    "main.ade06f3a.css.map": "/ranaakhil/Akhil-Portfolio.git/static/css/main.ade06f3a.css.map",
+    "main.8aed2d42.js.map": "/ranaakhil/Akhil-Portfolio.git/static/js/main.8aed2d42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ade06f3a.css",
+    "static/js/main.8aed2d42.js"
+  ]
+}
